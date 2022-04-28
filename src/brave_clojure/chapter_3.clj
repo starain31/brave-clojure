@@ -13,4 +13,5 @@
 (comment
   (exercise-1 "Putin" (vector "Ukrain" "Georgia" "Syria"))
   (exercise-1 "Putin" (list "Ukrain" "Georgia" "Syria"))
-  (exercise-1 "Putin" (hash-set "Ukrain" "Georgia" "Syria")))
+  (exercise-1 "Putin" (hash-set "Ukrain" "Georgia" "Syria"))
+  (exercise-1 "Putin" (keys (hash-map "Ukrain" true "Georgia" true "Syria" true))))
