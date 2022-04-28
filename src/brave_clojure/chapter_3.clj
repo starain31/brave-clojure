@@ -12,4 +12,5 @@
 
 (comment
   (exercise-1 "Putin" (vector "Ukrain" "Georgia" "Syria"))
-  (exercise-1 "Putin" (list "Ukrain" "Georgia" "Syria")))
+  (exercise-1 "Putin" (list "Ukrain" "Georgia" "Syria"))
+  (exercise-1 "Putin" (hash-set "Ukrain" "Georgia" "Syria")))
